@@ -1,0 +1,37 @@
+/* Desktop opening: readable copy beside its own photograph. */
+@media(min-width:781px){
+ body[data-slug="liberty-avenue"] .hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.13fr);column-gap:clamp(32px,4.5vw,80px);row-gap:0;min-height:0;padding:0 max(32px,calc((100vw - 1440px)/2));background:#1f253e;color:#f1eee6}
+ body[data-slug="liberty-avenue"] .hero .site-header{grid-column:1/-1;grid-row:1;width:100%;min-height:98px;border-color:#e5dbc72e}
+ body[data-slug="liberty-avenue"] .hero .wordmark{color:#f1eee6}
+ body[data-slug="liberty-avenue"] .hero .liberty-top-tools{grid-column:1/-1;grid-row:2;width:100%;margin:22px 0 0;padding:18px 24px;background:#e5dbc7;border:0;border-radius:14px;gap:24px}
+ body[data-slug="liberty-avenue"] .hero .lunch-topbar{color:#1f253e}
+ body[data-slug="liberty-avenue"] .hero .lunch-copy{gap:20px}
+ body[data-slug="liberty-avenue"] .hero .lunch-copy strong{font-size:28px;color:#1f253e}
+ body[data-slug="liberty-avenue"] .hero .lunch-copy>span{color:#44485a;font-size:13px}
+ body[data-slug="liberty-avenue"] .hero .delivery-brands{border-color:#1f253e35;padding-left:24px}
+ body[data-slug="liberty-avenue"] .hero .wolt-brand{color:#1f253e}
+ body[data-slug="liberty-avenue"] .hero .wolt-brand img{filter:brightness(0) saturate(100%)}
+ body[data-slug="liberty-avenue"] .hero .wolt-brand>span{font-size:13px}
+ body[data-slug="liberty-avenue"] .hero-images{position:relative;inset:auto;grid-column:2;grid-row:3;align-self:center;width:100%;height:clamp(390px,36vw,570px);margin:44px 0 50px;border-radius:24px;overflow:hidden}
+ body[data-slug="liberty-avenue"] .hero-slide img{object-position:50% 50%}
+ body[data-slug="liberty-avenue"] .hero-shade{display:none}
+ body[data-slug="liberty-avenue"] .hero-content{grid-column:1;grid-row:3;align-self:center;width:100%;min-height:0;padding:42px 0 48px;justify-content:center}
+ body[data-slug="liberty-avenue"] .hero .eyebrow{color:#d4cbb8;font-size:12px;line-height:1.5;letter-spacing:.1em}
+ body[data-slug="liberty-avenue"] .hero h1{font-size:clamp(43px,4.7vw,72px);line-height:1.04;letter-spacing:-.045em;margin-top:24px;max-width:620px;text-shadow:none;text-wrap:balance;color:#f8f5ee}
+ body[data-slug="liberty-avenue"] .hero h1 em{color:#e5dbc7}
+ body[data-slug="liberty-avenue"] .hero-bottom{display:flex;flex-direction:column;align-items:flex-start;gap:28px;margin-top:28px}
+ body[data-slug="liberty-avenue"] .hero-bottom>p{font-size:15px;line-height:1.8;max-width:40ch;color:#d3d5df}
+ body[data-slug="liberty-avenue"] .hero-actions{justify-content:flex-start;gap:26px}
+ body[data-slug="liberty-avenue"] .hero .pill{background:#e5dbc7;color:#1f253e;border-color:#e5dbc7;font-size:14px;font-weight:600;padding:15px 25px;min-height:52px}
+ body[data-slug="liberty-avenue"] .hero .pill:hover{background:#f8f5ee;border-color:#f8f5ee}
+ body[data-slug="liberty-avenue"] .hero-more{display:inline-block;font-size:13px;color:#e5dbc7;border-color:#e5dbc770}
+}
+@media(min-width:781px) and (max-width:1000px){
+ body[data-slug="liberty-avenue"] .hero{padding-inline:28px;column-gap:28px}
+ body[data-slug="liberty-avenue"] .hero .site-header{gap:16px}
+ body[data-slug="liberty-avenue"] .hero .site-header nav{gap:13px;font-size:12px}
+ body[data-slug="liberty-avenue"] .hero .wordmark{font-size:26px}
+ body[data-slug="liberty-avenue"] .hero-images{height:420px}
+ body[data-slug="liberty-avenue"] .hero .lunch-copy{display:grid;gap:5px}
+ body[data-slug="liberty-avenue"] .hero-actions{gap:16px}
+}

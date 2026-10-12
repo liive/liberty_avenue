@@ -1,0 +1,90 @@
+/* Liberty Avenue — a dedicated small-screen composition. */
+@media (max-width:780px){
+ body[data-slug="liberty-avenue"]{--mobile-radius:20px;color:#1f253e}
+ body[data-slug="liberty-avenue"] .shell{width:calc(100% - 40px)}
+ body[data-slug="liberty-avenue"] .hero{padding-bottom:10px;background:#1f253e}
+ body[data-slug="liberty-avenue"] .site-header{min-height:78px;border:0;padding:18px 0;flex-wrap:nowrap}
+ body[data-slug="liberty-avenue"] .wordmark{font-size:27px;letter-spacing:-.05em}
+ body[data-slug="liberty-avenue"] .language{border-color:#e5dbc74d;background:none}
+ body[data-slug="liberty-avenue"] .language button{min-width:36px;min-height:36px}
+ body[data-slug="liberty-avenue"] .language button[aria-pressed=true]{background:#e5dbc7;color:#1f253e}
+ body[data-slug="liberty-avenue"] .liberty-top-tools{padding:0;gap:0;margin:2px auto 20px;border:0;background:none}
+ body[data-slug="liberty-avenue"] .lunch-topbar{padding:19px 20px;background:#e5dbc7;color:#1f253e;border-radius:20px;position:relative;overflow:hidden}
+ body[data-slug="liberty-avenue"] .lunch-topbar::after{content:'';position:absolute;width:88px;height:88px;border:1px solid #1f253e20;border-radius:50%;right:-30px;top:-28px;pointer-events:none}
+ body[data-slug="liberty-avenue"] .lunch-copy{gap:7px;min-width:0}
+ body[data-slug="liberty-avenue"] .lunch-copy strong{font:400 33px/1.05 var(--serif);letter-spacing:-.045em}
+ body[data-slug="liberty-avenue"] .lunch-copy>span{font-size:12px;line-height:1.5;color:#1f253e}
+ body[data-slug="liberty-avenue"] .delivery-brands{border:0;padding:11px 4px 0}
+ body[data-slug="liberty-avenue"] .delivery-brands .wolt-brand{justify-content:flex-end;gap:10px;min-height:38px}
+ body[data-slug="liberty-avenue"] .wolt-brand>span{font-size:12px;color:#e5dbc7}
+ body[data-slug="liberty-avenue"] .wolt-brand img{width:53px;height:24px}
+ body[data-slug="liberty-avenue"] .hero-images{width:calc(100% - 24px);margin:0 auto;aspect-ratio:1.7;border-radius:20px;overflow:hidden}
+ body[data-slug="liberty-avenue"] .hero-slide img{object-position:50% 50%}
+ body[data-slug="liberty-avenue"] .hero-content{padding:30px 0 32px}
+ body[data-slug="liberty-avenue"] .hero .eyebrow{font-size:10px;letter-spacing:.15em;color:#e5dbc7;text-transform:uppercase;display:flex;align-items:center;gap:10px}
+ body[data-slug="liberty-avenue"] .hero .eyebrow::before{content:'';display:block;width:24px;height:1px;background:#e5dbc7;flex:none}
+ body[data-slug="liberty-avenue"] .hero h1{font-size:clamp(42px,12vw,72px);line-height:1.01;letter-spacing:-.055em;margin-top:17px;text-wrap:balance;color:#f8f5ee}
+ body[data-slug="liberty-avenue"] .hero h1 em{color:#e5dbc7}
+ body[data-slug="liberty-avenue"] .hero-bottom{margin-top:23px;gap:25px}
+ body[data-slug="liberty-avenue"] .hero-bottom p{font-size:14px;line-height:1.75;color:#d3d5df;max-width:36ch}
+ body[data-slug="liberty-avenue"] .hero-actions{display:flex;flex-wrap:wrap;gap:16px}
+ body[data-slug="liberty-avenue"] .hero .pill{background:#e5dbc7;border-color:#e5dbc7;color:#1f253e;padding:15px 23px;min-height:50px;font-size:13px;font-weight:600}
+ body[data-slug="liberty-avenue"] .hero-more{font-size:12px;color:#e5dbc7;border-color:#e5dbc760}
+ body[data-slug="liberty-avenue"] .marquee{background:#1f253e;color:#e5dbc7;border-top:1px solid #e5dbc72b;border-bottom:1px solid #e5dbc72b}
+ body[data-slug="liberty-avenue"] .marquee .marquee-track{display:flex;justify-content:space-between;gap:12px;padding:16px 0;width:calc(100% - 40px)}
+ body[data-slug="liberty-avenue"] .marquee .strip-name,body[data-slug="liberty-avenue"] .marquee .strip-description{display:none}
+ body[data-slug="liberty-avenue"] .marquee .strip-tag,body[data-slug="liberty-avenue"] .marquee .strip-city{font-size:11px;line-height:1.5;letter-spacing:.025em;color:#e5dbc7;padding:0}
+ body[data-slug="liberty-avenue"] .story{padding:62px 0;gap:30px}
+ body[data-slug="liberty-avenue"] .story .eyebrow,body[data-slug="liberty-avenue"] .section-heading .eyebrow,body[data-slug="liberty-avenue"] .feature .eyebrow{font-size:10px;text-transform:uppercase;letter-spacing:.12em}
+ body[data-slug="liberty-avenue"] .story-copy h2{font-size:clamp(38px,10.4vw,58px);line-height:1.05;margin-top:15px}
+ body[data-slug="liberty-avenue"] .story-text{margin-top:23px;padding-top:21px;border-color:#1f253e26}
+ body[data-slug="liberty-avenue"] .story-text p{font-size:14px;line-height:1.85;color:#4a4d5a}
+ body[data-slug="liberty-avenue"] .text-link{font-size:13px;margin-top:18px;padding:10px 0}
+ body[data-slug="liberty-avenue"] .story-visual .photo{height:auto;aspect-ratio:4/3;max-height:none;border-radius:var(--mobile-radius)}
+ body[data-slug="liberty-avenue"] .experience{padding:48px 0 52px;border-radius:28px 28px 0 0}
+ body[data-slug="liberty-avenue"] .section-heading{gap:16px}
+ body[data-slug="liberty-avenue"] .section-heading .eyebrow{color:#e5dbc7}
+ body[data-slug="liberty-avenue"] .section-heading h2{font-size:clamp(38px,10.5vw,58px);line-height:1.06;max-width:12ch;color:#f1eee6}
+ body[data-slug="liberty-avenue"] .gallery-window{margin:30px -20px 0;width:calc(100% + 40px)}
+ body[data-slug="liberty-avenue"] .gallery-photo-group{gap:14px;padding-right:14px}
+ body[data-slug="liberty-avenue"] .gallery-photo-group .moment-card{width:80vw;max-width:440px}
+ body[data-slug="liberty-avenue"] .gallery-photo-group .photo{border-radius:18px;aspect-ratio:4/3}
+ body[data-slug="liberty-avenue"] .feature{display:flex;flex-direction:column;background:#e5dbc7;padding:38px 20px 44px;gap:0}
+ body[data-slug="liberty-avenue"] .feature-image{min-height:0;height:auto;aspect-ratio:4/3;border-radius:20px;overflow:hidden}
+ body[data-slug="liberty-avenue"] .feature-image img{width:100%;height:100%;object-fit:cover}
+ body[data-slug="liberty-avenue"] .feature-copy{padding:30px 2px 0}
+ body[data-slug="liberty-avenue"] .feature-copy h2{font-size:clamp(38px,10.5vw,58px);line-height:1.05;margin:16px 0 21px}
+ body[data-slug="liberty-avenue"] .feature-copy>p:not(.eyebrow){font-size:14px;line-height:1.8}
+ body[data-slug="liberty-avenue"] .feature-copy .pill{margin-top:25px;background:#1f253e;color:#f1eee6;border-color:#1f253e;min-height:50px;padding:14px 22px;font-size:13px}
+ body[data-slug="liberty-avenue"] footer.ref-footer{padding:48px 0 26px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-city{font-size:10px;margin-bottom:18px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-title{font-size:clamp(46px,13vw,68px);line-height:1.01}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-title em{color:#e5dbc7}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-actions{gap:10px;margin-top:26px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-button{font-size:12px;min-height:48px;padding:13px 16px;gap:8px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-button svg{width:18px;height:18px;flex-basis:18px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-layout{gap:32px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-row{font-size:14px;padding:18px 0;gap:14px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-row svg{width:19px;height:19px;flex-basis:19px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-bottom{margin-top:32px;gap:13px;font-size:11px}
+ body[data-slug="liberty-avenue"] .ref-footer .rf-brand{font-size:24px}
+}
+@media(max-width:360px){body[data-slug="liberty-avenue"] .wordmark{font-size:23px}body[data-slug="liberty-avenue"] .language button{min-width:31px;padding:4px}body[data-slug="liberty-avenue"] .hero h1{font-size:42px}}
+
+/* Readable signature strip: full-width rows rather than narrow columns. */
+@media(max-width:780px){
+ body[data-slug="liberty-avenue"] .marquee .marquee-track{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:auto auto;gap:8px 16px;padding:22px 0}
+ body[data-slug="liberty-avenue"] .marquee .marquee-track>span{overflow-wrap:normal;word-break:normal;min-width:0}
+ body[data-slug="liberty-avenue"] .marquee .marquee-track .strip-name{display:block;grid-column:1;grid-row:1;font-size:22px;line-height:1.2;white-space:nowrap;color:#f1eee6}
+ body[data-slug="liberty-avenue"] .marquee .marquee-track .strip-city{display:block;grid-column:2;grid-row:1;font-size:12px;line-height:1.5;padding:0;border:0;white-space:nowrap;color:#e5dbc7}
+ body[data-slug="liberty-avenue"] .marquee .marquee-track .strip-tag{display:block;grid-column:1/-1;grid-row:2;font-size:13px;line-height:1.5;color:#d3d5df}
+ body[data-slug="liberty-avenue"] .marquee .marquee-track .strip-description{display:none}
+}
+body[data-slug="liberty-avenue"] .gallery-controls{display:flex;justify-content:flex-end;gap:12px;margin:28px 0 18px}
+body[data-slug="liberty-avenue"] .gallery-controls button{display:grid;place-items:center;width:50px;height:50px;background:transparent;color:#e5dbc7;border:1px solid #e5dbc780;border-radius:50%;transition:background .2s,color .2s}
+body[data-slug="liberty-avenue"] .gallery-controls button:hover{background:#e5dbc7;color:#1f253e}
+body[data-slug="liberty-avenue"] .gallery-controls svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+body[data-slug="liberty-avenue"] .gallery-controls+.gallery-window{margin-top:0;overflow-x:auto;scrollbar-width:none;scroll-behavior:auto}
+body[data-slug="liberty-avenue"] .gallery-window::-webkit-scrollbar{display:none}
+body[data-slug="liberty-avenue"] .gallery-window.gallery-controlled .gallery-moving-track{animation:none;transform:none;will-change:auto}
+body[data-slug="liberty-avenue"] .gallery-window.gallery-controlled .gallery-photo-group{display:flex}

@@ -1,0 +1,128 @@
+{
+  "restaurant": "Liberty Avenue",
+  "checked_on": "2026-10-01",
+  "content_source": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 1000,
+      "height": 667,
+      "description": "Steak with prawns and fries",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24725.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-02.jpg",
+      "width": 1000,
+      "height": 667,
+      "description": "Mini burgers and fries",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24727.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-03.jpg",
+      "width": 834,
+      "height": 667,
+      "description": "Seafood salad",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24726.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-04.jpg",
+      "width": 527,
+      "height": 667,
+      "description": "Exterior terrace",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24736.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-05.jpg",
+      "width": 525,
+      "height": 667,
+      "description": "Purple-lit bar seating",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24733.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-06.jpg",
+      "width": 477,
+      "height": 667,
+      "description": "Bar counter",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24735.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-07.jpg",
+      "width": 474,
+      "height": 667,
+      "description": "Dining tables",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24737.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-08.jpg",
+      "width": 1000,
+      "height": 667,
+      "description": "Mussels and fries",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24723.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-09.jpg",
+      "width": 1000,
+      "height": 636,
+      "description": "Chocolate dessert with berries",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24724.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/photo-10.jpg",
+      "width": 455,
+      "height": 667,
+      "description": "Red cocktails",
+      "source_url": "https://www.sventes.lt/lt/gastrobaras-liberty-avenue-4337/",
+      "image_url": "https://www.sventes.lt/uploads/objektas4337/---24728.jpg",
+      "reuse": "Unknown; publicly displayed restaurant listing photograph"
+    },
+    {
+      "file": "assets/hero-seafood.webp",
+      "width": 1800,
+      "height": 1200,
+      "description": "Liberty Avenue: jūros gėrybių patiekalas",
+      "source_url": "https://kaunas.kasvyksta.lt/maistas/liberty-avenue-skoniu-ivairove-ir-jauki-atmosfera-kauno-sirdyje",
+      "image_url": "https://s3-newsifier.ams3.digitaloceanspaces.com/kaunas.kasvyksta.lt/images/2025-07/a02a3196-6975f4d0e0a46.jpg",
+      "reuse": "Unknown; restaurant photograph published in editorial feature"
+    },
+    {
+      "file": "assets/hero-breakfast.webp",
+      "width": 1800,
+      "height": 811,
+      "description": "Liberty Avenue: pusryčių patiekalas",
+      "source_url": "https://kaunas.kasvyksta.lt/maistas/liberty-avenue-skoniu-ivairove-ir-jauki-atmosfera-kauno-sirdyje",
+      "image_url": "https://s3-newsifier.ams3.digitaloceanspaces.com/kaunas.kasvyksta.lt/images/2025-07/1000000924.jpg",
+      "reuse": "Unknown; restaurant photograph published in editorial feature"
+    },
+    {
+      "file": "assets/hero-spread.webp",
+      "width": 2048,
+      "height": 728,
+      "source": "User-supplied image(20261012-134532).png",
+      "description": "First hero image: Liberty Avenue dishes"
+    }
+  ],
+  "review_note": "10 authentic photos.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Uniform 4:3 image frames in aligned responsive rows",
+  "hero_updated_on": "2026-10-12"
+}
